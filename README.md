@@ -1,16 +1,34 @@
-# React + Vite
+📱 Site iPhone
+Este é um projeto de site estático simulando a interface/apresentação de um iPhone, desenvolvido utilizando HTML, CSS e JavaScript.
+🚀 Acesse o projeto
+👉 https://deivsonribeiro.github.io/iphone/
+📂 Estrutura do projeto
+iphone/
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── imagens/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tecnologias utilizadas
+HTML5
+CSS3
+JavaScript
+⚙️ Como executar localmente
+Baixe ou clone este repositório:
+git clone https://github.com/DeivsonRibeiro/iphone.git
 
-Currently, two official plugins are available:
+Abra o arquivo:
+index.html
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+no seu navegador.
+🌐 Publicação
+Este projeto está hospedado usando o GitHub Pages.
+⚠️ Observações
+Certifique-se de que os caminhos dos arquivos (CSS, JS e imagens) estão corretos.
+Evite usar / no início dos caminhos para não quebrar no GitHub Pages.
+📌 Melhorias futuras
+Responsividade para dispositivos móveis
+Animações mais avançadas
+Melhor organização do código
+👨‍💻 Autor
+Desenvolvido por Deivson Ribeiro
